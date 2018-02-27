@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="83947" started-at="2018-02-26T07:07:48Z" finished-at="2018-02-26T07:09:12Z">
+  <suite name="Default suite" duration-ms="17094" started-at="2018-02-27T05:50:18Z" finished-at="2018-02-27T05:50:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="83947" started-at="2018-02-26T07:07:48Z" finished-at="2018-02-26T07:09:12Z">
-      <class name="com.testng.ex.NewTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.ex.NewTest@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="55255" started-at="2018-02-26T07:07:48Z" finished-at="2018-02-26T07:08:43Z">
+    <test name="Default test" duration-ms="17094" started-at="2018-02-27T05:50:18Z" finished-at="2018-02-27T05:50:35Z">
+      <class name="com.testng.ex.Linkscounttest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.ex.Linkscounttest@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="13458" started-at="2018-02-27T05:50:18Z" finished-at="2018-02-27T05:50:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.testng.ex.NewTest@5e5792a0]" name="test1" duration-ms="10" started-at="2018-02-26T07:08:43Z" finished-at="2018-02-26T07:08:43Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testng.ex.Linkscounttest@5e5792a0]" name="test1" duration-ms="80" started-at="2018-02-27T05:50:32Z" finished-at="2018-02-27T05:50:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.ex.NewTest@5e5792a0]" name="afterMethod" is-config="true" duration-ms="28644" started-at="2018-02-26T07:08:43Z" finished-at="2018-02-26T07:09:12Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.ex.Linkscounttest@5e5792a0]" name="afterMethod" is-config="true" duration-ms="3441" started-at="2018-02-27T05:50:32Z" finished-at="2018-02-27T05:50:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.testng.ex.NewTest -->
+      </class> <!-- com.testng.ex.Linkscounttest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
