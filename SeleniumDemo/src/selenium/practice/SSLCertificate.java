@@ -20,7 +20,7 @@ public class SSLCertificate {
 		DesiredCapabilities cap=DesiredCapabilities.chrome();
 
 		// Set ACCEPT_SSL_CERTS  variable to true
-		cap.setCapability(CapabilityType.ACCEPT_SSL_CERTS,true));
+		cap.setCapability(CapabilityType.ACCEPT_SSL_CERTS,true);
 
 
 		// Open browser with capability
